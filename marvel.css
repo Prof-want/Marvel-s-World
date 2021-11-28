@@ -1,0 +1,50 @@
+body{
+   background-color: khaki;
+   border-radius: 30px;
+   margin-left: 50px;
+   shape-margin: 5px;
+   margin-right: 0px;
+ 
+ }
+ nav,a{
+   text-decoration: none;}
+   nav{
+   background-color: cornflowerblue;
+   border-radius: 30px;
+   
+ }
+ h1{
+ color:grey;
+ }
+ input{
+   color:black ;
+   border-right:30px;
+   border-spacing: 50px;
+ }
+ div{
+   padding: 5px;
+   margin-right: 1210px;
+   background-color: cornflowerblue;
+   
+ 
+ }
+ button{
+   text-align: center;
+   margin-left: 55px;
+   border-radius: 8px;
+   background-color: khaki;
+ }
+ .up:hover{
+   background-color: cornflowerblue;
+ }
+ .box{
+   width: 220px;
+   margin-left: 10px;
+   height:20px;
+ }
+ .boxo{
+   width: 220px;
+   margin-left: 32px;
+   height:20px;
+ }
+ 
